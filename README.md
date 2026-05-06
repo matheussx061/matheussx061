@@ -1,6 +1,6 @@
 Olá, eu sou o Matheus Martins Silva.
 
-☣️ Estou cursando o primeiro semestre de ciências da computação.
+☣️ Estou cursando o terceiro semestre de ciências da computação.
 
 💲 Estou aprendendo pythom, banco de dados e assembly.
 
