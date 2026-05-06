@@ -4,6 +4,10 @@ Olá, eu sou o Matheus Martins Silva.
 
 💲 Estou aprendendo pythom, banco de dados e assembly.
 
+📫 Contato
+📧 E-mail: theusmartins29@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/matheus-martins-silva-65035b397/?skipRedirect=true
+
 <div> 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=matheussx061&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussx061&layout=compact&langs_count=16&theme=dark"/>
